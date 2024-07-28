@@ -14,18 +14,12 @@ This repository contains a Python script to simulate customer service processes 
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/your_username/customer-service-simulation.git
-   cd customer-service-simulation
+https://github.com/Zeinab-sattarian/Customer-Service-Simulation.git
    ```
 
-2. **Create a Virtual Environment**:
-
-   ```bash
-   python -m venv env
-   source env/bin/activate  # On Windows, use `env\Scripts\activate`
    ```
 
-3. **Install Dependencies**:
+2. **Install Dependencies**:
 
    ```bash
    pip install pandas
@@ -117,11 +111,8 @@ Prints a detailed table of customer data including times and idle times.
 
 Saves the simulation results to an Excel file.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
+Developed by Zeinab Sattarian
 
 - Developed by [Your Name]
 
