@@ -79,40 +79,11 @@ The script prints key performance metrics and a detailed table of each customer'
 - **Idle Time for Each Clerk**
 - **Idle Time for Cashier**
 
-## Functions
-
-### `generate_exponential(rate)`
-
-Generates an exponentially distributed random variable.
-
-### `generate_standard_normal()`
-
-Generates a standard normal random variable using a custom approximation.
-
-### `generate_normal(mu, sigma)`
-
-Generates a normal random variable with mean `mu` and standard deviation `sigma`, ensuring no zero service times.
-
-### `simulate(total_customers, lambda_val, mu_service, sigma_service, mu_cashier, sigma_cashier)`
-
-Runs the simulation with the specified parameters.
-
-### `print_results(average_waiting_time, probability_of_wait, average_service_time, average_time_between_arrivals, average_time_in_system)`
-
-Prints the performance metrics of the simulation.
-
-### `print_customer_table(customer_data, clerk_idle_times, cashier_idle_time, customer_total_times, total_customers, num_clerks)`
-
-Prints a detailed table of customer data including times and idle times.
-
-### `save_to_excel(customer_data, clerk_idle_times, cashier_idle_time, customer_total_times, total_customers, num_clerks)`
-
-Saves the simulation results to an Excel file.
 
 ## Acknowledgments
-Developed by Zeinab Sattarian
 
-- Developed by [Your Name]
+- Developed by Zeinab Sattarian
+
 
 ---
 
