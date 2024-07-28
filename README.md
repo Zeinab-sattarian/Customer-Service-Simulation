@@ -17,8 +17,6 @@ This repository contains a Python script to simulate customer service processes 
 https://github.com/Zeinab-sattarian/Customer-Service-Simulation.git
    ```
 
-   ```
-
 2. **Install Dependencies**:
 
    ```bash
