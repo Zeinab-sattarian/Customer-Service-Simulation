@@ -30,7 +30,7 @@ This repository contains a Python script to simulate customer service processes 
 To run the simulation with the default parameters, execute:
 
 ```bash
-python simulate.py
+python queuyingSimulation.py
 ```
 
 ### Parameters
